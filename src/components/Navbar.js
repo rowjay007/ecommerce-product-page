@@ -109,6 +109,7 @@ const Navbar = () => {
             </div>
           </div>
         </div>
+        <hr className="" />
       </div>
     </nav>
   );
