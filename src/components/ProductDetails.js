@@ -4,7 +4,7 @@ import React from "react";
 import plusIcon from "../assets/images/icon-plus.svg";
 import minusIcon from "../assets/images/icon-minus.svg";
 import Button from "./Button";
-import { sneaker } from "../data";
+import { sneaker } from "../uitls/data";
 
 const ProductDetails = ({ setCounter, counter, setSavedCount }) => {
   const deductCount = () =>
