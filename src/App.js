@@ -23,7 +23,7 @@ function App() {
 
           <ProductDetails
             // @ts-ignore
-            count={counter}
+            counter={counter}
             setCounter={setCounter}
             setSavedCount={setSavedCount}
           />
